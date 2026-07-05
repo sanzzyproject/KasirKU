@@ -1,0 +1,6 @@
+{
+  "name": "KasirKu",
+  "description": "Advanced Cashier App with QRIS and Reporting",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
